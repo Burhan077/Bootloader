@@ -1,0 +1,15 @@
+>[!NOTE]
+>Originally, I this project was to help me learn Assembly and it was a pretty cool way of learning
+>
+>Take this as a "DO NOT INGEST" sign on toxic waste.
+>
+>This is in no way meant to replace your EFI System of your Bootloader.
+>
+>Replacing your EFI System Partition with this will most likely brick your motherboard.
+>
+>So, if you value your laptop or PC, please don't replace your Bootloader with this one.
+>
+>If you wanna replace your bootloader and patch the IME or PHP in your CPU, try [Coreboot](https://coreboot.org/) or [Libreboot](https://libreboot.org/)
+>
+>If you wanna replace your bootloader with this, by making this READTHIS.md, I absolve myself over all responsibility.
+>
