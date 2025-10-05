@@ -7,13 +7,13 @@
 >
 >This is in no way meant to replace your EFI System of your Bootloader.
 >
->Replacing your EFI System Partition with this will most likely brick your motherboard.
+>Replacing your EFI System Partition with this will most likely make you regret it.
 >
->So, if you value your laptop or PC, please don't replace your Bootloader with this one.
+>So, if you value your data, please don't replace your Bootloader with this one.
 >
->If you wanna replace your bootloader and patch the IME or PHP in your CPU, try [Coreboot](https://coreboot.org/) or [Libreboot](https://libreboot.org/)
+>If you wanna replace your bootloader and get rid the IME or PHP in your CPU, you can try [Coreboot](https://coreboot.org/) or [Libreboot](https://libreboot.org/)
 >
->If you wanna replace your bootloader with this, by making this READTHIS.md, I absolve myself over all responsibility.
+>If you wanna replace your bootloader with this, by making this README, I absolve myself of all responsibility.
 >
 >This software is provided as-is without any liability. For More Info check the [MIT LICENSE](https://opensource.org/license/mit)
  
